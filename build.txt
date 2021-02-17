@@ -1,0 +1,3 @@
+displayName = Weaponry Mod
+author = GetReel YT
+version = 1.6.0
