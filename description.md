@@ -66,7 +66,7 @@ v1.5.2.1:
 v1.5.3:
 -Modified the properties for some weapons.
 
-1.6.0:
+v1.6.0:
 -Added 5 new weapons;
 -Remade 5 old weapon sprites;
 -Introducing Crynium ore - along with wings, armor, pickaxe and hamaxe, two magic weapons, and one melee weapon;
@@ -74,3 +74,7 @@ Crynium: Post-Golem, 210 pp required to mine, spawns everywhere underground, arm
 -Introducing 6 new accessories;
 -Introducing 3 new materials; and
 -New mod icon
+
+v1.6.1:
+-Added reccommended ammo and ammo pouch; and
+-Added a new material used to craft it and future ammo pouches
